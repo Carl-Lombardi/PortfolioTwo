@@ -5,7 +5,7 @@ This is my second portfolio update. Included in it are links to Get Out (Team Pr
 The basic build of the site was HTML/CSS with links to sites using Materialize (Get Out!), Bulma (Karl's Travel Guide) and Javascript/JQuery (New Jersey Devils Trivia).
 
 ## Features
-This portfolio differs from the first portfolio page. Instead of three pages, it has been condensed to one with multiple sections. There has also been a number of layout and font changes leading to a cleaner, more stylish apperence. There is biographical information, a portfolio section with three linked projects (GitHub and Site Links) and a contact section with GitHub and LinkedIn links. My Email address appears in the biographical section of the portfolio. 
+This portfolio differs from the first portfolio page. Instead of three pages, it has been condensed to one with multiple sections. There has also been a number of layout and font changes leading to a cleaner, more stylish apperence. There is updated biographical information, a portfolio section with three linked projects (GitHub and Site Links) and a contact section with GitHub and LinkedIn links. My Email address appears in the biographical section of the portfolio. 
 
 ## Installation 
 No outside software is needed for installation. 
